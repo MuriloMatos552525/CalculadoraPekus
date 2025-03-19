@@ -1,6 +1,3 @@
-A seguir, um exemplo de README.md para o GitHub, descrevendo o projeto, seus requisitos, funcionalidades e instruções para build/run:
-
----
 
 # Calculadora Pekus
 
@@ -20,8 +17,6 @@ Calculadora Pekus é um aplicativo Android desenvolvido em Java que realiza cál
   - Recebimento do ID gerado pela API, que é exibido ao usuário.
   - Listagem de todos os cálculos armazenados utilizando GET.
   - Exclusão de registros utilizando DELETE com o ID do cálculo.
-  - Todas as chamadas à API incluem a ApiKey: **MURL1903**.  
-  - Documentação da API: [Calculadora API](https://intranet.pekus.com.br/calcapi/swagger/index.html)
 
 - **Design Moderno e Minimalista:**  
   - Interface clean e inspirada no estilo Apple, com fundo claro, tipografia elegante e componentes Material Design.
@@ -97,14 +92,6 @@ CalculadoraPekus/
   - Cada registro mostra: Valor A, Valor B (ambos com 2 casas decimais), operação, resultado (2 casas decimais) e data/hora formatada como "dd/MM/yyyy HH:mm:ss".
 - **Exclusão de Registros:**  
   - Utilize o botão "Excluir" em cada item para remover o registro (a exclusão é feita via API).
-
-## Contribuição
-
-Contribuições são bem-vindas! Se desejar melhorar o projeto ou adicionar novas funcionalidades, sinta-se à vontade para enviar um pull request.
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
 
 ## Agradecimentos
 
