@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculadoraPekus</string>
+    <string name="id_format">ID: %1$d</string>
+    <string name="valores_format">Valor A: %1$.2f | Valor B: %2$.2f</string>
+    <string name="operacao_resultado_format">Operação: %1$s | Resultado: %2$.2f</string>
+    <string name="data_format">Data: %1$s</string>
+</resources>

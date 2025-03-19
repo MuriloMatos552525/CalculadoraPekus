@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fundo com gradiente suave, passando de um tom levemente cinza para branco -->
+    <gradient
+        android:startColor="#F7F7F7"
+        android:endColor="#FFFFFF"
+        android:angle="270" />
+
+    <!-- Borda sutil com cor levemente mais escura -->
+    <stroke
+        android:width="1dp"
+        android:color="#DDDDDD" />
+
+    <!-- Cantos mais arredondados para um visual mais moderno -->
+    <corners android:radius="12dp" />
+
+    <!-- Padding interno aumentado para um toque mais espaçoso -->
+    <padding
+        android:left="12dp"
+        android:top="12dp"
+        android:right="12dp"
+        android:bottom="12dp" />
+</shape>
