@@ -18,10 +18,6 @@ Calculadora Pekus é um aplicativo Android desenvolvido em Java que realiza cál
   - Listagem de todos os cálculos armazenados utilizando GET.
   - Exclusão de registros utilizando DELETE com o ID do cálculo.
 
-- **Design Moderno e Minimalista:**  
-  - Interface clean e inspirada no estilo Apple, com fundo claro, tipografia elegante e componentes Material Design.
-  - Uso de CardViews para agrupar inputs e exibir resultados.
-  - Ocultação automática do teclado ao interagir com os botões.
 
 ## Requisitos
 
@@ -82,10 +78,8 @@ CalculadoraPekus/
    - Clique no botão **"Calcular e Armazenar"**.
    - O app exibirá o resultado final na tela e enviará os dados para a API.
    - Uma mensagem informará o ID retornado pela API, e os campos serão limpos.
-4. **Ocultar Teclado:**  
-   - O teclado é ocultado automaticamente ao clicar nos botões.
-   - Existe também um botão extra para ocultação manual, se necessário.
 
+   
 ### Tela de Listagem (ListActivity)
 - **Visualize os Cálculos Armazenados:**  
   - Navegue para a tela de listagem e veja os cálculos em formato de tabela.
@@ -96,7 +90,6 @@ CalculadoraPekus/
 ## Agradecimentos
 
 - A equipe da **Pekus** pelo desafio e pela oportunidade.
-- A documentação da API fornecida para a integração.
 
 ---
 
