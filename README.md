@@ -30,7 +30,7 @@ Calculadora Pekus é um aplicativo Android desenvolvido em Java que realiza cál
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/CalculadoraPekus.git
+   git clone https://github.com/murilomatos552525/CalculadoraPekus.git
    ```
 
 2. **Abra no Android Studio:**
