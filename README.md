@@ -93,4 +93,3 @@ CalculadoraPekus/
 
 ---
 
-Esse README cobre os pontos principais e está pronto para ser adicionado ao seu repositório GitHub. Se precisar de ajustes ou de mais informações, estou à disposição para ajudar!
